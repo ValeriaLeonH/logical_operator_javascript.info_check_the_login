@@ -1,24 +1,18 @@
 # template-readme
 
-![](https://img.shields.io/badge/Uneweb-blue)
-
-# Project Name
-
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+![Alt text](image.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- JavaScript
+- VSCode
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+This is [Live](hhttps://valerialeonh.github.io./logical_operator_javascript.info_check_the_login/)
 
 
 ## Getting Started
