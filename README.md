@@ -12,7 +12,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-This is [Live](hhttps://valerialeonh.github.io./logical_operator_javascript.info_check_the_login/)
+This is [Live](https://valerialeonh.github.io./logical_operator_javascript.info_check_the_login/)
 
 
 ## Getting Started
@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ValeriaLeonH/logical_operator_javascript.info_check_the_login/issues).
 
 ## Show your support
 
