@@ -39,17 +39,12 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Valeria Leon**
 
 - GitHub: [@aValeriaLeonH](https://github.com/ValeriaLeonH)
 - Twitter: [colocartwitter]()
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/valeria-leon-30960527a/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
